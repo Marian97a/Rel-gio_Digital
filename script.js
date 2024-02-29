@@ -15,4 +15,4 @@ const relogio = setInterval(function time() {
     horas.textContent = hr;
     minutos.textContent = min;
     segundos.textContent = s;
-}, 1000); // Adicionei um intervalo de 1000 milissegundos (1 segundo)
+}, 1000);
